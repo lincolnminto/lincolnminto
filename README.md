@@ -6,9 +6,8 @@ A little about me:
 
  📍  Lagoa Santa, MG - **Brazil**.</br>
  🔭  I’m currently working as a Senior Full Stack Developer (Tech Lead) at **[@CronApp](https://github.com/CronApp)** building a great and easy to use Low-Code+ Platform.</br>
- 🌱  I’m currently learning everything related to **Flutter, Aspects **.</br>
  📚  Self-taught</br>
- ⚡  Interesting fact: I started working as a QA Analyst and even got a ISTB Certification.</br>
+ ✨  Interesting fact: I started working as a QA Analyst and even got a ISTB Certification.</br>
 
 ### ⚡ Skills:
  ![Java](https://img.shields.io/badge/Java-181717?logo=coffeescript&logoColor=red) ![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-181717?logo=typescript&logoColor=blue) ![Git](https://img.shields.io/badge/-Git-181717?logo=git&logoColor=orange) ![AWS](https://img.shields.io/badge/AWS-181717?logo=amazonaws&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-181717?logo=docker&logoColor=2496ED) ![Linux](https://img.shields.io/badge/-Linux-181717?logo=linux&logoColor=FCC624) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=FFFFFF)
@@ -24,7 +23,6 @@ A little about me:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto&layout=compact&theme=dark&title_color=2ED3EA)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto-cronapp&layout=compact&theme=dark&title_color=2ED3EA)
-
 
 <hr>
 
