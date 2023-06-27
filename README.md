@@ -14,15 +14,15 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Lincolnminto github stats](https://github-readme-stats.vercel.app/api?username=lincolnminto&theme=dark&show_icons=true)](https://github.com/lincolnminto/github-readme-stats)
+[![Lincolnminto github stats](https://github-readme-stats.vercel.app/api?username=lincolnminto&theme=github_dark_dimmed&show_icons=true)](https://github.com/lincolnminto/github-readme-stats)
 
-[![Lincolnminto github stats](https://github-readme-stats.vercel.app/api?username=lincolnminto-cronapp&theme=dark&show_icons=true)](https://github.com/lincolnminto-cronapp/github-readme-stats)
+[![Lincolnminto github stats](https://github-readme-stats.vercel.app/api?username=lincolnminto-cronapp&theme=github_dark_dimmed&show_icons=true)](https://github.com/lincolnminto-cronapp/github-readme-stats)
 
 ### 💡  Languages 
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto&layout=compact&theme=dark&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto&layout=compact&theme=github_dark_dimmed)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto-cronapp&layout=compact&theme=dark&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto-cronapp&layout=compact&theme=github_dark_dimmed)
 
 <hr>
 
