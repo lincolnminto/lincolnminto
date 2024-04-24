@@ -12,12 +12,6 @@ A little about me:
 ### ⚡ Skills:
  ![Java](https://img.shields.io/badge/Java-181717?logo=coffeescript&logoColor=red) ![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-181717?logo=typescript&logoColor=blue) ![Git](https://img.shields.io/badge/-Git-181717?logo=git&logoColor=orange) ![AWS](https://img.shields.io/badge/AWS-181717?logo=amazonaws&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-181717?logo=docker&logoColor=2496ED) ![Linux](https://img.shields.io/badge/-Linux-181717?logo=linux&logoColor=FCC624) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=FFFFFF)
 
-### 📈 Stats 
- 
-[![Lincolnminto github stats](https://github-readme-stats.vercel.app/api?username=lincolnminto&theme=github_dark_dimmed&show_icons=true)](https://github.com/lincolnminto/github-readme-stats)
-
-[![Lincolnminto github stats](https://github-readme-stats.vercel.app/api?username=lincolnminto-cronapp&theme=github_dark_dimmed&show_icons=true)](https://github.com/lincolnminto-cronapp/github-readme-stats)
-
 ### 💡  Languages 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnminto&layout=compact&theme=github_dark_dimmed)
